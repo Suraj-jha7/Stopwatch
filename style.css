@@ -208,5 +208,26 @@ h1{
         font-size: 4rem;
     }
   }
+@media screen and (max-width: 500px) {
+    .digit{
+        font-size: 60px;
+        
+   }
+    .btn{
+        padding: 7px 25px;
+        font-size: 12px;
+        margin:0px 10px;
+    }
+
+    
+    .txt{
+        font-size: 25px;
+        font-weight: bold;
+        color:rgb(213, 212, 212);
+    }
+   h1{
+        font-size: 3.2rem;
+    }
+  }
 
  
